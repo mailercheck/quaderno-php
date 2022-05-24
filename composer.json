@@ -1,10 +1,20 @@
 {
-  "name": "quaderno/quaderno",
+  "name": "mailercheck/quaderno",
   "type": "library",
   "description": "PHP wrapper for the Quaderno REST API",
-  "version": "2.0.1",
-  "keywords": ["tax", "vat", "gst", "sales tax", "tax calculation", "billing","receipts", "invoices", "credit notes"],
-  "homepage": "https://github.com/quaderno/quaderno-php",
+  "version": "3.0.0",
+  "keywords": [
+    "tax",
+    "vat",
+    "gst",
+    "sales tax",
+    "tax calculation",
+    "billing",
+    "receipts",
+    "invoices",
+    "credit notes"
+  ],
+  "homepage": "https://github.com/mailercheck/quaderno-php",
   "license": "MIT",
   "authors": [
     {
@@ -19,6 +29,8 @@
     "ext-curl": "*"
   },
   "autoload": {
-    "files": ["quaderno_load.php"]
+    "files": [
+      "quaderno_load.php"
+    ]
   }
 }
