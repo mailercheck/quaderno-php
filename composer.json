@@ -2,7 +2,7 @@
   "name": "mailercheck/quaderno",
   "type": "library",
   "description": "PHP wrapper for the Quaderno REST API",
-  "version": "3.0.0",
+  "version": "3.0.2",
   "keywords": [
     "tax",
     "vat",
